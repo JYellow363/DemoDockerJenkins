@@ -13,64 +13,22 @@
       </path>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:fix" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:feautre" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:fix" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:hotfix" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:revert-3-feature" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2296394-efce-4f7f-aee1-6a946ce9d2c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upc/JAXRSConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upc/boundary/GreetingResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/micanasta/repository/SolicitudRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/micanasta/repository/SolicitudRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/micanasta/service/impl/SolicitudServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/micanasta/service/impl/SolicitudServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demodockerjenkins.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demodockerjenkins.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +43,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -95,7 +53,9 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1dklmofPdbHKC142X0saXAGuV21" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -105,6 +65,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -114,6 +75,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="GlassFish 5.2020.21" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 5.2020.21" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
@@ -270,6 +232,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592977133534</updated>
       <workItem from="1592977138797" duration="3742000" />
+      <workItem from="1592986131711" duration="172000" />
     </task>
     <servers />
   </component>
@@ -286,6 +249,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="246" key="#Glassfish_Server" timestamp="1592978295924">
@@ -344,9 +313,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="845" height="163" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1592980909057" />
-    <state x="120" y="0" key="SettingsEditor" timestamp="1592978529590">
+    <state x="120" y="0" key="SettingsEditor" timestamp="1592986197726">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="120" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1592978529590" />
+    <state x="120" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1592986197726" />
   </component>
 </project>
