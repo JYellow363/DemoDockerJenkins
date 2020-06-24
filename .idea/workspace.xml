@@ -24,11 +24,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2296394-efce-4f7f-aee1-6a946ce9d2c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e2296394-efce-4f7f-aee1-6a946ce9d2c4" name="Default Changelist" comment="Second Commit">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demodockerjenkins.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demodockerjenkins.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,8 +230,16 @@
       <option name="presentableId" value="Default" />
       <updated>1592977133534</updated>
       <workItem from="1592977138797" duration="3742000" />
-      <workItem from="1592986131711" duration="172000" />
+      <workItem from="1592986131711" duration="1923000" />
     </task>
+    <task id="LOCAL-00001" summary="Second Commit">
+      <created>1592986518114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592986518114</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,8 +261,14 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="349" y="0" key="#Dockerfile" timestamp="1592987801385">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="0" key="#Dockerfile/0.0.1280.680@0.0.1280.680" timestamp="1592987801385" />
     <state x="414" y="246" key="#Glassfish_Server" timestamp="1592978295924">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -317,5 +329,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="120" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1592986197726" />
+    <state x="464" y="73" key="Vcs.Push.Dialog.v2" timestamp="1592986695136">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="464" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1592986695136" />
   </component>
 </project>
